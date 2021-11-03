@@ -11,7 +11,7 @@ home = expanduser("~")
 
 # install script will fill this in
 # replace line
-repo_dir = "/home/paul/Documents/GitHub/StartTree"
+repo_dir = "/Users/alexweichart/.config/StartTree"
 
 # get config path
 config_dir = home + '/.config/StartTree'

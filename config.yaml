@@ -1,19 +1,24 @@
-font_size: 22
-theme: void
-tree_1:
+font_size: 22 # specify font size
+theme: cotton-candy 
+tree_0:
   general:
+    reddit: "https://www.reddit.com/"
     github: "https://www.github.com/"
-    gmail: "https://mail.google.com/"
-  reddit:
-    frontpage: 
-      - "https://www.reddit.com/"
-      - "front page"
-    unixporn: "https://www.reddit.com/r/unixporn/"
-tree_2:
-  other:
-    archwiki: 
-      - "https://archlinux.org/"
-      - "arch wiki"
-    hulu: "https://www.hulu.com/"
-    netflix: "https://www.netflix.com/"
+  video:
     youtube: "https://www.youtube.com/"
+    twitch: "https://www.twitch.com/"
+  music:
+    soundcloud: "https://soundcloud.com/discover"
+tree_1:
+  uni:
+    spur: "https://spur.uni-regensburg.de/"
+    grips: "https://elearning.uni-regensburg.de/"
+    flexNow: "https://fn2.uni-regensburg.de/FN2AUTH/login.jsp"
+  resources:
+    oReilly: "https://learning.oreilly.com/home/"
+tree_2:
+  work:
+    hours: "https://wiki.mi.ur.de/orga/shk/alexanderweichart"
+    gather: "https://gather.town/app/nUozY38QLGD3Ziqv/pda"
+    homepage: "https://hci.ur.de"
+
