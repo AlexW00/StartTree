@@ -3,6 +3,7 @@
 This is my private fork to add/change some functionality:
 - google search instead of ddg
 - auto focus search field instead of address bar
+- remove autocomplete
 
 # StartTree
 A terminal-style home page replicating the tree command, modified from [this](https://notabug.org/nytly/home) start page, which no longer exists.
