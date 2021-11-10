@@ -19,6 +19,7 @@ tree_1:
     oReilly: "https://learning.oreilly.com/home/"
 tree_2:
   work:
+    kanban: "https://tools.mi.ur.de/kanboard/board/3"
     hours: "https://wiki.mi.ur.de/orga/shk/alexanderweichart"
     gather: "https://gather.town/app/nUozY38QLGD3Ziqv/pda"
     homepage: "https://hci.ur.de"

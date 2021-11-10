@@ -11,11 +11,11 @@ home = expanduser("~")
 
 # install script will fill this in
 # replace line
-repo_dir = "/Users/alexweichart/.config/StartTree"
+repo_dir = "./"
 
 # get config path
-config_dir = home + '/.config/StartTree'
-config_path = home + '/.config/StartTree/config.yaml'
+config_dir = home + '/Documents/GitHub/StartTree'
+config_path = home + '/Documents/GitHub/StartTree/config.yaml'
 
 # get cache path
 cache_dir = home + '/.cache/StartTree'
